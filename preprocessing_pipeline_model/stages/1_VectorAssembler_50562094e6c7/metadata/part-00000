@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1754628425517,"sparkVersion":"3.5.1","uid":"VectorAssembler_50562094e6c7","paramMap":{"inputCols":["age","income","net_worth","monthly_expense","debt_percent","savings_percent"],"outputCol":"features"},"defaultParamMap":{"outputCol":"VectorAssembler_50562094e6c7__output","handleInvalid":"error"}}
